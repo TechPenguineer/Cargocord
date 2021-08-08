@@ -1,1 +1,11 @@
-
+Token Registy 
+Get bot info from api
+Bot events 
+Message sender 
+Embed builder 
+Set status
+Add/DELETE roles 
+Send attachments
+Edit server settings
+Add/Remove Channels & Categories 
+Edit Channel/Category Settings
