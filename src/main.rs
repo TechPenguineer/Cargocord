@@ -1,3 +1,5 @@
+mod register_token;
+
 fn main() {
-    println!("Hello, world!");
+    register_token::register("TOKEN_ID");
 }
