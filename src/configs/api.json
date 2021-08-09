@@ -1,3 +1,4 @@
 {
-  "api_start_point": "https://discord.com/api/v/8/"
+  "api_version": "9",
+  "api_start_point": "https://discord.com/api/v"
 }
